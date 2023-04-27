@@ -1,11 +1,11 @@
 # Estimación de mortalidad por COVID-19: Modelo matemático de vacunación e intervenciones no farmacológicas para Colombia
 
-The aim of this repository is to send an mail with the new calls for research projects from [MINCIENCIAS Colombia](https://minciencias.gov.co). 
+El objetivo de este repositorio es proporcionar a los interesados ... 
 
 
-## Description of files in this repository:
+## Descripción del repositorio:
 
-It has a main module called `minciencias_convoc.py` which read the calls from [MINCIENCIAS webpage](https://minciencias.gov.co/convocatorias/todas) each period of time. It sends a mail if there is new calls with respect to the last read. 
+[MINCIENCIAS webpage](https://minciencias.gov.co/convocatorias/todas) . 
 
 
 ## Installation
@@ -53,10 +53,10 @@ This project is in progress and it requires some improvments. Therefore, if you 
 
 ## Contact
 
-* [Lina M Ruiz G](https://co.linkedin.com/in/lina-marcela-ruiz-galvis-465896209) - lina.ruiz2@udea.edu.co
+* [Oscar Ignacio Mendoza Cardozo](https://co.linkedin.com/in/lina-marcela-ruiz-galvis-465896209) - oscar.mendoza1@udea.edu.co
 
-## Acknowledgments
-* [Anderson Alexis Ruales Barbosa](https://co.linkedin.com/in/anderson-alexis-ruales-b27638199?original_referer=https%3A%2F%2Fwww.google.com%2F)
+## Agradecimientos:
+* []()
 
     
     
