@@ -53,7 +53,7 @@ This project is in progress and it requires some improvments. Therefore, if you 
 
 ## Contact
 
-* [Oscar Ignacio Mendoza Cardozo](https://co.linkedin.com/in/lina-marcela-ruiz-galvis-465896209) - oscar.mendoza1@udea.edu.co
+* [Oscar Ignacio Mendoza Cardozo](https://orcid.org/0000-0002-3881-6430) - oscar.mendoza1@udea.edu.co
 
 ## Agradecimientos:
 * []()
