@@ -51,7 +51,7 @@ dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD
 
 ## Contacto
 
-* [Oscar Ignacio Mendoza Cardozo](https://orcid.org/0000-0002-3881-6430)
+* [ORCID](https://orcid.org/0000-0002-3881-6430)
 * :email: oscar.mendoza1@udea.edu.co
 
 
