@@ -13,13 +13,6 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 
 2. [Matrices de contacto para Colombia](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/MatricesCol.xlsx)
 
-3. 
-
-   ```
-3. Install the required libraries 
-   ```sh 
-   pip install -r requirements.txt
-   ```
 4. Use the `exexution.py` to run the code and set the receiver mails and other attributes
 
 ## Ejecución del modelo
