@@ -14,19 +14,6 @@ Archivos:
 
 3. 
 
-
-
-1. Clone the repository inside the folder
-   ```sh 
-   git clone https://github.com/LinaMRuizG/minciencias_convocatorias.git
-   ```
-2. Create the virtual enviroment inside the same folder 
-   ```sh 
-   virtualenv venv
-   ```
-3. Activate the virtual environment
-   ```sh 
-   source /path/to/venv/bin/activate
    ```
 3. Install the required libraries 
    ```sh 
@@ -42,11 +29,9 @@ You could use the next command to run  the code automatically from bash each per
    source execution.sh
    ```
 
-
-## contribuciones
+## Contribuciones
 
 This project is in progress and it requires some improvments. Therefore, if you have any suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks!
-
 
 ## Contacto
 
