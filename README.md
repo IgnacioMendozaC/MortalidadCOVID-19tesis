@@ -4,8 +4,9 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 
 ## Descripción:
 
-Archivos:
+**NOTA:** Wolfram Mathematica 12.3.
 
+**Archivos:**
 
 
 1.  [Código del modelo](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/Cod_modelo_final.nb):
