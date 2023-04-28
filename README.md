@@ -24,10 +24,14 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 
 ## Ejecución del modelo
 
-You could use the next command to run  the code automatically from bash each period of time:
+Para reproducir o implementar este modelo matematico, deberá:
 
+1. Descargar cada uno de los archivos incluidos en el proyecto [Click](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis)
+2. Crear un (carpeta) en su ordenador con un proyecto en donde aloje los archivos que descargo anteriormente.
+3. Abrir el archivo [Código del modelo](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/Cod_modelo_final.nb) y modificar el directorio con la dirección de la carpeta en donde alojó la documentación previamente descargada. 
+   
    ```sh 
-   source execution.sh
+   SetDirectory["D:\\Oscar\Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD DE\ANTIOQUIA\\II\\Proyecto\\Documento\\FINAL"]
    ```
 
 ## Contribuciones
