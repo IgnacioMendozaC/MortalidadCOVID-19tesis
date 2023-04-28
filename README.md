@@ -1,14 +1,20 @@
 # Estimación de mortalidad por COVID-19: Modelo matemático de vacunación e intervenciones no farmacológicas para Colombia
 
-El objetivo de este repositorio es proporcionar a los interesados, la documentación que permitan verificar, reproducir o implementar el modelo SEIR de vacunación e intervenciones no farmacológicas, propuesto para la tesis "Estimación de mortalidad por COVID-19: Modelo matemático de vacunación e intervenciones no farmacológicas para Colombia" para obtar por título de MSc en Epidemiología, Universidad de Antioquia.   
+El objetivo de este repositorio es proporcionar a los interesados, la documentación que permitan verificar, reproducir o implementar el modelo SEIR de vacunación e intervenciones no farmacológicas, propuesto para la tesis "Estimación de mortalidad por COVID-19: Modelo matemático de vacunación e intervenciones no farmacológicas para Colombia" para optar por título de MSc en Epidemiología, de la Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
 
 ## Descripción:
 
-## Installation
+Archivos:
 
-**NOTE:** *This project was made in* ***Python 3.10.6***
 
-0. Create a folder to put the project and the virtual enviroment
+
+1.  [Código del modelo](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/Cod_modelo_final.nb):
+
+2. [Matrices de contacto para Colombia](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/MatricesCol.xlsx)
+
+3. 
+
+
 
 1. Clone the repository inside the folder
    ```sh 
@@ -47,7 +53,7 @@ This project is in progress and it requires some improvments. Therefore, if you 
 * [Oscar Ignacio Mendoza Cardozo](https://orcid.org/0000-0002-3881-6430) - oscar.mendoza1@udea.edu.co
 
 ## Agradecimientos:
-* []()
+
 
     
     
