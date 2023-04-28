@@ -13,7 +13,9 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 
 2. [Matrices de contacto para Colombia](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/MatricesCol.xlsx)
 
-4. Use the `exexution.py` to run the code and set the receiver mails and other attributes
+3. [Distribución de retraso](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/daysFisToDeath.csv)
+
+4. [Mortalidad Colombia](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/fallecidos_pos_mar2.csv)
 
 ## Ejecución del modelo
 
@@ -58,7 +60,9 @@ dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD
  Maestría en Epidemiología, Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
 
 
+    Notas:
     
+     `exexution.py` 
     
     
     
