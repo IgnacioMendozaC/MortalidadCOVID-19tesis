@@ -1,6 +1,6 @@
 # Estimación de mortalidad por COVID-19: Modelo matemático de vacunación e intervenciones no farmacológicas para Colombia
 
-El objetivo de este repositorio es proporcionar a los interesados, la documentación que permitan verificar, reproducir o implementar el modelo SEIR de vacunación e intervenciones no farmacológicas, propuesto para la tesis "Estimación de mortalidad por COVID-19: Modelo matemático de vacunación e intervenciones no farmacológicas para Colombia" para optar por título de MSc en Epidemiología, de la Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
+El objetivo de este repositorio es proporcionar a los interesados, la documentación del modelo matemático tipo SEIR, que permita, verificar y reproducir los resultados de la tesis de maestria, denominada "Estimación de mortalidad por COVID-19: Modelo matemático de vacunación e intervenciones no farmacológicas para Colombia". Asimismo, aquellos investigadores que quieran implementar el modelo a otros contextos o modificar el modelo, se deja disponible todo el proyecto y la documentación.
 
 ## Descripción:
 
@@ -9,7 +9,7 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 **Archivos:**
 
 
-1.  [Código del modelo](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/Cod_modelo_final.nb):
+1.  [código del modelo](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/Cod_modelo_final.nb):
 
 2. [Matrices de contacto para Colombia](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/MatricesCol.xlsx)
 
@@ -51,7 +51,11 @@ dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD
 
 * [Oscar Ignacio Mendoza Cardozo](https://orcid.org/0000-0002-3881-6430) - oscar.mendoza1@udea.edu.co
 
+
+
 ## Agradecimientos:
+ 
+ Maestría en Epidemiología, Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
 
 
     
