@@ -9,7 +9,7 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 **Archivos:**
 
 
-1.  [código del modelo](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/Cod_modelo_final.nb):
+1.  [código del modelo](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/Cod_modelo_final.nb)
 
 2. [Matrices de contacto para Colombia](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/MatricesCol.xlsx)
 
