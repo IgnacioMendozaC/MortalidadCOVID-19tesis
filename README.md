@@ -1,12 +1,8 @@
 # Estimación de mortalidad por COVID-19: Modelo matemático de vacunación e intervenciones no farmacológicas para Colombia
 
-El objetivo de este repositorio es proporcionar a los interesados ... 
+El objetivo de este repositorio es proporcionar a los interesados los archivos que permitan verificar, reproducir o implementar el modelo SEIR de vacunación e intervenciones no farmacológicas.  
 
-
-## Descripción del repositorio:
-
-[MINCIENCIAS webpage](https://minciencias.gov.co/convocatorias/todas) . 
-
+## Descripción:
 
 ## Installation
 
