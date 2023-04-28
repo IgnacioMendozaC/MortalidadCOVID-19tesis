@@ -19,7 +19,7 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 
 ## Ejecución del modelo
 
-Para reproducir o implementar este modelo matematico, deberá:
+Para reproducir o implementar este modelo matemático:
 
 1. Descargar cada uno de los archivos incluidos en el [proyecto](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis)
 2. Debe crear un (carpeta) en su ordenador con un proyecto en donde aloje los archivos que descargo anteriormente.
