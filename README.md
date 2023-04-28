@@ -4,7 +4,7 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 
 ## Descripción:
 
-**NOTA:** Wolfram Mathematica 12.3.
+**NOTA:** Este proyecto fue realizado en Wolfram Mathematica 12.3.
 
 **Archivos:**
 
