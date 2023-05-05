@@ -31,18 +31,18 @@ Para reproducir o implementar este modelo matemático:
  4. Modificar el dirección de la ubicación de las matrices de contacto, cargando el archivo **MatricesCol.xlsx** 
  
    ```sh 
-  Bold = Import["D:\\Oscar \Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD DEANTIOQUIA\\II\\Proyecto\\Documento\\FINAL\\Bases de      datos\\MatricesCol.xlsx", "Data"]
+  Bold = Import["D:\\Oscar \Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD DEANTIOQUIA\\II\\Proyecto\\Documento\\FINAL\\Bases de datos\\MatricesCol.xlsx", "Data"]
    ```
   5. Modificar la dirección de la ubicación de la distribución de retraso, cargando el archivo **daysFisToDeath.csv**
  
  ```sh 
- dF2D = Import["D:\\Oscar \Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD DE \ANTIOQUIA\\II\\Proyecto\\Documento\\FINAL\\Bases de \datos\\daysFisToDeath.csv"] // Flatten;
+ dF2D = Import["D:\\Oscar \Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD DE \ANTIOQUIA\\II\\Proyecto\\Documento\\FINAL\\Basesdedatos\\daysFisToDeath.csv"] // Flatten;
   ```
   
   6. Modificar la dirección de la ubicación del archivo asociado a las muertes en Colombia por COVID-19 una vez ínicia el plan de vacunación. 
   
    ```sh 
-dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD \DE ANTIOQUIA\\II\\Proyecto\\Documento\\FINAL\\Bases de \datos\\Casos_COVID\\Casos_COVID\\fallecidos_pos_mar2.csv"]
+dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD \DE ANTIOQUIA\\II\\Proyecto\\Documento\\FINAL\\Basesdedatos\\Casos_COVID\\Casos_COVID\\fallecidos_pos_mar2.csv"]
   ```
   
  7. Correr el modelo 
