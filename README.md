@@ -6,7 +6,7 @@ El objetivo de este repositorio es proporcionar a los interesados, la documentac
 
 **NOTA:** Este proyecto fue realizado en Wolfram Mathematica 12.3.
 
-**Archivos:**
+**Archivos incluidos en el proyecto:**
 
 
 1.  [Código del modelo](https://github.com/IgnacioMendozaC/MortalidadCOVID-19tesis/blob/main/Cod_modelo_final.nb)
