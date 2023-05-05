@@ -44,6 +44,8 @@ Para reproducir o implementar este modelo matemático:
    ```sh 
 dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD \DE ANTIOQUIA\\II\\Proyecto\\Documento\\FINAL\\Bases de \datos\\Casos_COVID\\Casos_COVID\\fallecidos_pos_mar2.csv"]
   ```
+  
+ 7. Correr el modelo 
 
 ## Contacto
 
