@@ -54,7 +54,9 @@ dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD
 
 ## Agradecimientos:
  
- Maestría en Epidemiología, Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
+-  Maestría en Epidemiología, Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
+
+- Instituto de Física, Universidad de Antioquia. 
    
     
     
