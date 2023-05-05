@@ -45,10 +45,6 @@ Para reproducir o implementar este modelo matemático:
 dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD \DE ANTIOQUIA\\II\\Proyecto\\Documento\\FINAL\\Bases de \datos\\Casos_COVID\\Casos_COVID\\fallecidos_pos_mar2.csv"]
   ```
 
-## Contribuciones
-
-
-
 ## Contacto
 
 * [ORCID](https://orcid.org/0000-0002-3881-6430)
@@ -59,12 +55,7 @@ dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD
 ## Agradecimientos:
  
  Maestría en Epidemiología, Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
-
-
-    Notas:
-    
-     `exexution.py` 
-    
+   
     
     
    
