@@ -57,9 +57,11 @@ dEmp = Import["D:\\Oscar Mendoza\\Documents\\UINIVERSIDAD\\MAESTRIA\\UNIVERSIDAD
 ## Agradecimientos:
 
 Dra. Paula Andrea Díaz Valencia
+
 Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
 
 Dr. Boris Anghelo Rodríguez Rey
+
 Instituto de Física, Universidad de Antioquia. 
    
     
